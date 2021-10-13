@@ -2,6 +2,6 @@
 Learn Language Solidity
 
 # TOOLS
-- node js latest versions
+- Node js latest versions
 - Visual Studio Code
   - Load Extension Solidity
