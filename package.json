@@ -1,0 +1,31 @@
+{
+  "name": "Solidity-Project",
+  "version": "1.0.0",
+  "description": "Learn Language Solidity",
+  "scripts": {
+    "build": "hardhat compile",
+    "test:light": "hardhat test",
+    "test": "hardhat coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeer213/Solidity-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beeer213/Solidity-Project/issues"
+  },
+  "homepage": "https://github.com/beeer213/Solidity-Project#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.5"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "solidity-coverage": "^0.7.17"
+  }
+}
